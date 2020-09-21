@@ -4,7 +4,7 @@ main.py
 
 a terminal program that is like desmos
 
-By: Eoghan West | MIT Licence |
+By: Calacuda | MIT Licence |
 """
 
 import numpy as np
